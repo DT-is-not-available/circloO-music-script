@@ -1,0 +1,37 @@
+// drumloop
+
+d -1
+
+1 drum9
+0 drum1
+1 drum9
+1 drum9
+0 drum2
+0 drum4
+1 drum9
+1 drum9
+0 drum1
+1 drum9
+1 drum9
+0 drum2
+0 drum4
+1 drum9
+
+1 drum9
+0 drum1
+1 drum9
+1 drum9
+0 drum2
+0 drum4
+1 drum9
+1 drum9
+0 drum1
+1 drum9
+0 drum2
+0 drum4
+0.5 drum1
+0.5 drum9
+0.5 drum1
+0.5 drum9
+0 drum2
+0 drum4

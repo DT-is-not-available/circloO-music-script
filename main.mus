@@ -1,0 +1,137 @@
+grav 0.3
+scale 4
+measure 32
+size 7
+
+// sans loop
+
+new 1000 2500
+use melody/sans.mus
+trigger 0 0
+trigger 0 1
+trigger 0 2
+trigger 0 3
+trigger 0 5
+
+new
+use melody/highsans.mus
+trigger 0 2
+trigger 0 3
+
+// bass
+
+new
+use bass/A.mus
+trigger 0 1
+trigger 0 2
+trigger 0 3
+trigger 0 4
+trigger 0 5
+
+// insert the little drum fill after the build up
+
+new
+d 4
+0 drum9
+1 drum9
+1 drum9
+0.5 drum9
+1 drum9
+trigger 0 1.75
+
+// drums
+
+new
+use drums/power.mus
+trigger 0 2
+trigger 0 3
+trigger 0 4
+trigger 0 5
+trigger 0 6
+trigger 0 7
+trigger 0 8
+trigger 0 9
+trigger 0 12
+trigger 0 13
+
+// melody A
+
+new
+use melody/A.mus
+trigger 0 4
+
+// melody B
+
+new
+use melody/B.mus
+trigger 0 5
+
+// sansb
+
+new
+use melody/sansB.mus
+trigger 0 6
+trigger 0 7
+trigger 0 8
+trigger 0 9
+
+// bass B
+
+new
+
+use bass/B.mus
+trigger 0 6
+trigger 0 7
+trigger 0 8
+trigger 0 9
+trigger 0 10
+trigger 0 12
+
+// bass C
+
+new
+
+use bass/C.mus
+trigger 0 11
+trigger 0 13
+
+// melody C
+
+new
+use melody/C.mus
+trigger 0 6
+trigger 0 8
+
+// melody D
+
+new
+use melody/D.mus
+trigger 0 7
+trigger 0 9
+
+// drums calm
+
+new
+use drums/calm.mus
+trigger 0 10
+trigger 0 10.5
+trigger 0 11
+trigger 0 11.5
+
+// sansC
+
+new
+use melody/sansC.mus
+trigger 0 13.5
+trigger 0 14.5
+
+// fin
+
+new
+use melody/fin.mus
+trigger 0 10
+trigger 0 12
+
+// end level
+
+end 0 15.5
