@@ -1,6 +1,6 @@
 # circloO-music-script
 
-This repository holds the script I used to create MEGALOVANIA in circloO.
+This repository holds the script I used to create MEGALOVANIA in circloO. Its super basic and not really made to be super user friendly, but it works so I figured I might as well share it.
 
 # Running
 
