@@ -1,6 +1,6 @@
 # circloO-music-script
 
-This repository holds the script I used to create MEGALOVANIA in circloO. Its super basic and not really made to be super user friendly, but it works so I figured I might as well share it.
+This repository holds the script I used to create MEGALOVANIA in circloO. Its super basic and not really made to be super user friendly, but it works so I figured I might as well share it. This includes both the `index.js` file which is responsible for building the level and parsing the music files, as well as the source I used for MEGALOVANIA in the form of `.mus` files.
 
 # Running
 
